@@ -1,0 +1,2 @@
+# 3D-Fringe-Diffraction-in-Free-Space-LCD-Serpentine-Convex-Lens-Optical-System
+Rotating a cracked LCD panel in the free space between a Serpentine waveguide output aperture and a convex lens, we observe:  No satellite peaks — only fringe lines passing through Simultaneous x-axis and y-axis blinking at 0° Most notably, the diffraction image appears and moves not only on the screen but in 3D free space.
